@@ -1,0 +1,13 @@
+Important Coding in Source Code of HTML
+---------------------------------------
+
+ <script type="text/javascript" src="/crystalreportviewers13/js/crviewer/crv.js">
+      </script> 
+
+---------------------------------------
+
+Download Link For Crystal report
+
+http://downloads.businessobjects.com/akdlm/cr4vs2010/CRforVS_13_0.exe
+
+---------------------------------------

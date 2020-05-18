@@ -1,0 +1,8 @@
+1. link (crystal report design file )rpt file  connet  in CrysatalReportsource(visaul studio)
+2. crsytalReportViewer to  CrysatalReportsource conncet
+3. find out inetpub folder
+4. from inetpub to 4_0_30319
+5. from  4_0_30319 to crystalreportviewers13
+6.crystalreportviewers13 add this folder in project solution.
+7.  <script type="text/javascript" src="/crystalreportviewers13/js/crviewer/crv.js">
+      </script>  add this script to after title line 
